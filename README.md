@@ -1,4 +1,4 @@
-# Machine Learning Examples
+# Machine Learning Algorithm Implementations
 This repository contains a number of example implementations of popular machine learning algorithms. This is just to practice my familiarity with the algorithms. The majority of these implementations should be accompanied by a blog post.
 
 ## Variational Autoencoder Implementation
